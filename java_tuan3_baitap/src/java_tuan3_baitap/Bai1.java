@@ -14,7 +14,7 @@ public class Bai1 {
        public static void main(String[] args) {
            Scanner sc = new Scanner(System.in);
            System.out.print("Nhập a: ");
-           int a = sc.nextInt();
+           double a = sc.nextInt(); // dao sua kieu du lieu
            if(a==0)
                System.out.println("a bằng 0");
            else
