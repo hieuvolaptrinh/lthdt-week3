@@ -7,7 +7,7 @@ public class bai5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Nhậpđộ dài cạnh a: ");
+        System.out.print("Nhập độ dài cạnh a: ");
         double a = scanner.nextDouble();
 
         System.out.print("Nhập độ dài cạnh b: ");
